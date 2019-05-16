@@ -1,0 +1,13 @@
+﻿  SFML start.cpp
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(265): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(292): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(303): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(438): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(451): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(495): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(505): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell 7559\source\repos\sfml start\sfml start\update.h(511): warning C4018: '<': signed/unsigned mismatch
+  SFML start.vcxproj -> C:\Users\DELL 7559\source\repos\SFML start\Debug\SFML start.exe
